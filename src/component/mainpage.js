@@ -11,8 +11,8 @@ class MainPage extends Component {
                 <ul className="nav navbar-nav navbar-right">
                     <li className="sub-link"><span className="fa fa-envelope"></span> info@yourdomain.com </li>
                     <li className="sub-link"><span className="fa fa-phone"></span> +91-9007905382 </li>
-                    <li className="link"><span className="fa fa-lock"></span><a href="#">Register</a> </li>
-                    <li className="link-btn"><a href="#" className="btn btn-primary">Login</a> </li>
+                    <li className="link"><span className="fa fa-lock"></span><a>Register</a> </li>
+                    <li className="link-btn"><a className="btn btn-primary">Login</a> </li>
                 </ul>
             </div>
         </div>    
@@ -52,7 +52,7 @@ class MainPage extends Component {
 					<div className="col-md-8 col-md-offset-2 text-center">
 						<h1 className="title-one">Build your landing page</h1>
 						<h4 className="title-two">One landing page for many purpose</h4>
-						<a href="#" className="btn btn-primary">Get It Now</a>
+						<a className="btn btn-primary">Get It Now</a>
 					</div>
 				</div>
 			</div>
@@ -123,8 +123,8 @@ class MainPage extends Component {
                         <li>Facete mentitum no has ex alterum</li>
                     </ul>
                     <div className="text-left">
-                        <a href="#" className="btn btn-default">Live Demo</a>
-                        <a href="#" className="btn btn-primary">Get It Now</a>
+                        <a className="btn btn-default">Live Demo</a>
+                        <a className="btn btn-primary">Get It Now</a>
                     </div>
                 </div>
 
@@ -228,7 +228,7 @@ class MainPage extends Component {
                             <li className="current"><strong>No</strong> Support</li>
                         </ul>
                         <div className="footer-price">
-                            <a href="#" className="btn btn-info">Get It Now</a>
+                            <a className="btn btn-info">Get It Now</a>
                         </div>
                     </div>
                     
@@ -250,7 +250,7 @@ class MainPage extends Component {
                             <li className="current"><strong>No</strong> Support</li>
                         </ul>
                         <div className="footer-price">
-                            <a href="#" className="btn btn-success">Get It Now</a>
+                            <a className="btn btn-success">Get It Now</a>
                         </div>
                     </div>
                     
@@ -272,7 +272,7 @@ class MainPage extends Component {
                             <li className="current"><strong>No</strong> Support</li>
                         </ul>
                         <div className="footer-price">
-                            <a href="#" className="btn btn-danger">Get It Now</a>
+                            <a className="btn btn-danger">Get It Now</a>
                         </div>
                     </div>
                     
@@ -294,7 +294,7 @@ class MainPage extends Component {
                             <li className="current"><strong>24/7</strong> Support</li>
                         </ul>
                         <div className="footer-price">
-                            <a href="#" className="btn btn-warning">Get It Now</a>
+                            <a className="btn btn-warning">Get It Now</a>
                         </div>
                     </div>
                     
@@ -364,132 +364,132 @@ class MainPage extends Component {
                     <div data-filter="graphic" className="grid-item col-md-3 col-sm-4 col-xs-12">
                         <div className="wrap-gallery">
                             <div className="img-wrapper">
-                                <a href="images/img01.jpg" className="hover zoom"  data-pretty="prettyPhoto"></a>
+                                <div href="images/img01.jpg" className="hover zoom"  data-pretty="prettyPhoto"></div>
                                 <img src="images/img01.jpg" className="img-responsive" alt=""></img>
                             </div>
                             <div className="title-gallery">
-                                <h5><a href="#">Greaci appetere</a></h5>
+                                <h5><a>Greaci appetere</a></h5>
                             </div>
                         </div>
                     </div>
                     <div data-filter="photo" className="grid-item col-md-3 col-sm-4 col-xs-12">
                         <div className="wrap-gallery">
                             <div className="img-wrapper">
-                                <a href="images/img02.jpg" className="hover zoom"  data-pretty="prettyPhoto"></a>
+                                <div href="images/img02.jpg" className="hover zoom"  data-pretty="prettyPhoto"></div>
                                 <img src="images/img02.jpg" className="img-responsive" alt=""></img>
                             </div>
                             <div className="title-gallery">
-                                <h5><a href="#">Greaci appetere</a></h5>
+                                <h5><a>Greaci appetere</a></h5>
                             </div>
                         </div>
                     </div>
                     <div data-filter="app" className="grid-item col-md-3 col-sm-4 col-xs-12">
                         <div className="wrap-gallery">
                             <div className="img-wrapper">
-                                <a href="images/img03.jpg" className="hover zoom"  data-pretty="prettyPhoto"></a>
+                                <div href="images/img03.jpg" className="hover zoom"  data-pretty="prettyPhoto"></div>
                                 <img src="images/img03.jpg" className="img-responsive" alt=""></img>
                             </div>
                             <div className="title-gallery">
-                                <h5><a href="#">Greaci appetere</a></h5>
+                                <h5><a>Greaci appetere</a></h5>
                             </div>
                         </div>
                     </div>
                     <div data-filter="design" className="grid-item col-md-3 col-sm-4 col-xs-12">
                         <div className="wrap-gallery">
                             <div className="img-wrapper">
-                                <a href="images/img04.jpg" className="hover zoom"  data-pretty="prettyPhoto"></a>
+                                <div href="images/img04.jpg" className="hover zoom"  data-pretty="prettyPhoto"></div>
                                 <img src="images/img04.jpg" className="img-responsive" alt=""></img>
                             </div>
                             <div className="title-gallery">
-                                <h5><a href="#">Greaci appetere</a></h5>
+                                <h5><a>Greaci appetere</a></h5>
                             </div>
                         </div>
                     </div>
                     <div data-filter="app" className="grid-item col-md-3 col-sm-4 col-xs-12">
                         <div className="wrap-gallery">
                             <div className="img-wrapper">
-                                <a href="images/img05.jpg" className="hover zoom"  data-pretty="prettyPhoto"></a>
+                                <div href="images/img05.jpg" className="hover zoom"  data-pretty="prettyPhoto"></div>
                                 <img src="images/img05.jpg" className="img-responsive" alt=""></img>
                             </div>
                             <div className="title-gallery">
-                                <h5><a href="#">Greaci appetere</a></h5>
+                                <h5><a>Greaci appetere</a></h5>
                             </div>
                         </div>
                     </div>
                     <div data-filter="photo" className="grid-item col-md-3 col-sm-4 col-xs-12">
                         <div className="wrap-gallery">
                             <div className="img-wrapper">
-                                <a href="images/img06.jpg" className="hover zoom"  data-pretty="prettyPhoto"></a>
+                                <div href="images/img06.jpg" className="hover zoom"  data-pretty="prettyPhoto"></div>
                                 <img src="images/img06.jpg" className="img-responsive" alt=""></img>
                             </div>
                             <div className="title-gallery">
-                                <h5><a href="#">Greaci appetere</a></h5>
+                                <h5><a>Greaci appetere</a></h5>
                             </div>
                         </div>
                     </div>
                     <div data-filter="graphic" className="grid-item col-md-3 col-sm-4 col-xs-12">
                         <div className="wrap-gallery">
                             <div className="img-wrapper">
-                                <a href="images/img07.jpg" className="hover zoom"  data-pretty="prettyPhoto"></a>
+                                <div href="images/img07.jpg" className="hover zoom"  data-pretty="prettyPhoto"></div>
                                 <img src="images/img07.jpg" className="img-responsive" alt=""></img>
                             </div>
                             <div className="title-gallery">
-                                <h5><a href="#">Greaci appetere</a></h5>
+                                <h5><a>Greaci appetere</a></h5>
                             </div>
                         </div>
                     </div>
                     <div data-filter="app" className="grid-item col-md-3 col-sm-4 col-xs-12">
                         <div className="wrap-gallery">
                             <div className="img-wrapper">
-                                <a href="images/img08.jpg" className="hover zoom"  data-pretty="prettyPhoto"></a>
+                                <div href="images/img08.jpg" className="hover zoom"  data-pretty="prettyPhoto"></div>
                                 <img src="images/img08.jpg" className="img-responsive" alt=""></img>
                             </div>
                             <div className="title-gallery">
-                                <h5><a href="#">Greaci appetere</a></h5>
+                                <h5><a>Greaci appetere</a></h5>
                             </div>
                         </div>
                     </div>
                     <div data-filter="design" className="grid-item col-md-3 col-sm-4 col-xs-12">
                         <div className="wrap-gallery">
                             <div className="img-wrapper">
-                                <a href="images/img09.jpg" className="hover zoom"  data-pretty="prettyPhoto"></a>
+                                <div href="images/img09.jpg" className="hover zoom"  data-pretty="prettyPhoto"></div>
                                 <img src="images/img09.jpg" className="img-responsive" alt=""></img>
                             </div>
                             <div className="title-gallery">
-                                <h5><a href="#">Greaci appetere</a></h5>
+                                <h5><a>Greaci appetere</a></h5>
                             </div>
                         </div>
                     </div>
                     <div data-filter="graphic" className="grid-item col-md-3 col-sm-4 col-xs-12">
                         <div className="wrap-gallery">
                             <div className="img-wrapper">
-                                <a href="images/img10.jpg" className="hover zoom"  data-pretty="prettyPhoto"></a>
+                                <div href="images/img10.jpg" className="hover zoom"  data-pretty="prettyPhoto"></div>
                                 <img src="images/img10.jpg" className="img-responsive" alt=""></img>
                             </div>
                             <div className="title-gallery">
-                                <h5><a href="#">Greaci appetere</a></h5>
+                                <h5><a>Greaci appetere</a></h5>
                             </div>
                         </div>
                     </div>
                     <div data-filter="design" className="grid-item col-md-3 col-sm-4 col-xs-12">
                         <div className="wrap-gallery">
                             <div className="img-wrapper">
-                                <a href="images/img11.jpg" className="hover zoom"  data-pretty="prettyPhoto"></a>
+                                <div href="images/img11.jpg" className="hover zoom"  data-pretty="prettyPhoto"></div>
                                 <img src="images/img11.jpg" className="img-responsive" alt=""></img>
                             </div>
                             <div className="title-gallery">
-                                <h5><a href="#">Greaci appetere</a></h5>
+                                <h5><a>Greaci appetere</a></h5>
                             </div>
                         </div>
                     </div>
                     <div data-filter="photo" className="grid-item col-md-3 col-sm-4 col-xs-12">
                         <div className="wrap-gallery">
                             <div className="img-wrapper">
-                                <a href="images/img12.jpg" className="hover zoom"  data-pretty="prettyPhoto"></a>
+                                <div href="images/img12.jpg" className="hover zoom"  data-pretty="prettyPhoto"></div>
                                 <img src="images/img12.jpg" className="img-responsive" alt=""></img>
                             </div>
                             <div className="title-gallery">
-                                <h5><a href="#">Greaci appetere</a></h5>
+                                <h5><a>Greaci appetere</a></h5>
                             </div>
                         </div>
                     </div>
@@ -518,11 +518,11 @@ class MainPage extends Component {
                                 <img src="images/1.jpg" className="img-responsive" alt=""></img>
                             </div>
                             <div className="col-md-6 col-sm-6 content-post">
-                                <h5><a href="#">Omnium habemus det racto an vim</a></h5>
+                                <h5><a>Omnium habemus det racto an vim</a></h5>
                                 <ul className="meta-post">
-                                    <li><a href="#"><span className="fa fa-calendar"></span> 06/10/2015</a></li>
-                                    <li><a href="#"><span className="fa fa-thumb-tack"></span> App</a></li>
-                                    <li><a href="#"><span className="fa fa-comment-o"></span> 3</a></li>
+                                    <li><a><span className="fa fa-calendar"></span> 06/10/2015</a></li>
+                                    <li><a><span className="fa fa-thumb-tack"></span> App</a></li>
+                                    <li><a><span className="fa fa-comment-o"></span> 3</a></li>
                                 </ul>
                                 <p>
                                     Habeo vidisse posidonium ex mei. Modo viderer vituperata in has.
@@ -538,11 +538,11 @@ class MainPage extends Component {
                                 <img src="images/2.jpg" className="img-responsive" alt=""></img>
                             </div>
                             <div className="col-md-6 col-sm-6 content-post">
-                                <h5><a href="#">Mei ad iudico appetere ecusabo</a></h5>
+                                <h5><a>Mei ad iudico appetere ecusabo</a></h5>
                                 <ul className="meta-post">
-                                    <li><a href="#"><span className="fa fa-calendar"></span> 06/10/2015</a></li>
-                                    <li><a href="#"><span className="fa fa-thumb-tack"></span> App</a></li>
-                                    <li><a href="#"><span className="fa fa-comment-o"></span> 3</a></li>
+                                    <li><a><span className="fa fa-calendar"></span> 06/10/2015</a></li>
+                                    <li><a><span className="fa fa-thumb-tack"></span> App</a></li>
+                                    <li><a><span className="fa fa-comment-o"></span> 3</a></li>
                                 </ul>
                                 <p>
                                     Habeo vidisse posidonium ex mei. Modo viderer vituperata in has.
@@ -558,11 +558,11 @@ class MainPage extends Component {
                                 <img src="images/3.jpg" className="img-responsive" alt=""></img>
                             </div>
                             <div className="col-md-6 col-sm-6 col-md-pull-6 content-post">
-                                <h5><a href="#">Civibus inciderint ei vim assum</a></h5>
+                                <h5><a>Civibus inciderint ei vim assum</a></h5>
                                 <ul className="meta-post">
-                                    <li><a href="#"><span className="fa fa-calendar"></span> 06/10/2015</a></li>
-                                    <li><a href="#"><span className="fa fa-thumb-tack"></span> App</a></li>
-                                    <li><a href="#"><span className="fa fa-comment-o"></span> 3</a></li>
+                                    <li><a><span className="fa fa-calendar"></span> 06/10/2015</a></li>
+                                    <li><a><span className="fa fa-thumb-tack"></span> App</a></li>
+                                    <li><a><span className="fa fa-comment-o"></span> 3</a></li>
                                 </ul>
                                 <p>
                                     Habeo vidisse posidonium ex mei. Modo viderer vituperata in has.
@@ -579,11 +579,11 @@ class MainPage extends Component {
                                 <img src="images/4.jpg" className="img-responsive" alt=""></img>
                             </div>
                             <div className="col-md-6 col-sm-6 col-md-pull-6 content-post">
-                                <h5><a href="#">At nonumy aeterno nam esse</a></h5>
+                                <h5><a>At nonumy aeterno nam esse</a></h5>
                                 <ul className="meta-post">
-                                    <li><a href="#"><span className="fa fa-calendar"></span> 06/10/2015</a></li>
-                                    <li><a href="#"><span className="fa fa-thumb-tack"></span> App</a></li>
-                                    <li><a href="#"><span className="fa fa-comment-o"></span> 3</a></li>
+                                    <li><a><span className="fa fa-calendar"></span> 06/10/2015</a></li>
+                                    <li><a><span className="fa fa-thumb-tack"></span> App</a></li>
+                                    <li><a><span className="fa fa-comment-o"></span> 3</a></li>
                                 </ul>
                                 <p>
                                     Habeo vidisse posidonium ex mei. Modo viderer vituperata in has.
@@ -612,7 +612,7 @@ class MainPage extends Component {
                     <div className="ct-action">
                         <h4 className="title-one">Get premium accsess now !</h4>
                         <h4 className="title-two">Sometimes you need a call to action area</h4>
-                        <a href="#" className="btn btn-warning">Register Now</a>
+                        <a className="btn btn-warning">Register Now</a>
                     </div>
                     
                 </div>
@@ -632,11 +632,11 @@ class MainPage extends Component {
                         <img src="images/logo-footer.png" className="logo-footer" alt=""></img>
                         
                         <ul className="social-network">
-                            <li><a href="#"><span className="fa fa-facebook"></span></a></li>
-                            <li><a href="#"><span className="fa fa-twitter"></span></a></li>
-                            <li><a href="#"><span className="fa fa-linkedin"></span></a></li>
-                            <li><a href="#"><span className="fa fa-dribbble"></span></a></li>
-                            <li><a href="#"><span className="fa fa-instagram"></span></a></li>
+                            <li><a><span className="fa fa-facebook"></span></a></li>
+                            <li><a><span className="fa fa-twitter"></span></a></li>
+                            <li><a><span className="fa fa-linkedin"></span></a></li>
+                            <li><a><span className="fa fa-dribbble"></span></a></li>
+                            <li><a><span className="fa fa-instagram"></span></a></li>
                         </ul>
                         
                     </div>
@@ -645,21 +645,21 @@ class MainPage extends Component {
                             <div className="col-md-5 col-sm-6 col-xs-6">
                                 
                                 <ul className="footer-link">
-                                    <li><a href="#">Travel</a></li>
-                                    <li><a href="#">Explorers</a></li>
-                                    <li><a href="#">Nature</a></li>
-                                    <li><a href="#">Science</a></li>
-                                    <li><a href="#">Advices</a></li>
+                                    <li><a>Travel</a></li>
+                                    <li><a>Explorers</a></li>
+                                    <li><a>Nature</a></li>
+                                    <li><a>Science</a></li>
+                                    <li><a>Advices</a></li>
                                 </ul>
                                 
                             </div>
                             <div className="col-md-6 col-sm-6 col-xs-6">
                                
                                 <ul className="footer-link">
-                                    <li><a href="#">About</a></li>
-                                    <li><a href="#">Contact</a></li>
-                                    <li><a href="#">Term Of Service</a></li>
-                                    <li><a href="#">Privacy Policy</a></li>
+                                    <li><a>About</a></li>
+                                    <li><a>Contact</a></li>
+                                    <li><a>Term Of Service</a></li>
+                                    <li><a>Privacy Policy</a></li>
                                 </ul>
                                 
                             </div>
@@ -687,7 +687,7 @@ class MainPage extends Component {
             </div>
         </div>
         <div className="sub-footer">
-            Designed By <a href="#">Suman</a>
+            Designed By <a>Suman</a>
         </div>
     </footer>
     </div>
