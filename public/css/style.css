@@ -166,8 +166,8 @@ nav.navbar.nav-fixed .mainmenu ul.nav.navbar-nav > li > a{
 Logo
 =========================== */
 img.logo{
-    width: 106px;
-    height: 37px;
+    width: 134px;
+    height: 54px;
     margin-top: -9px;
     z-index: 3;
     position: relative;
@@ -177,11 +177,11 @@ img.logo{
     transition-timing-function: linear;
 }
 
-img.logo-footer{
+img.logo-footer {
     display: block;
-    width: 106px;
-    height: 37px;
-    margin: 0 0 25px 0;
+    width: 149px;
+    height: 63px;
+    margin: 0 0 9px 0;
 }
 
 nav.navbar.nav-fixed img.logo{

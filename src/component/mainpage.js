@@ -189,7 +189,7 @@ class MainPage extends Component {
                         </li>
                         <li>
                             <i className="icon icon-64 icon-interstate"></i>
-                            <h5>Plag & play</h5>
+                            <h5>Plug & play</h5>
                             <p>
                                 Hrrem volutpat per in, te hinc essent mea ei pro corrumpit.
                             </p>
@@ -687,7 +687,7 @@ class MainPage extends Component {
             </div>
         </div>
         <div className="sub-footer">
-            2015 &copy; Copyright <a href="#">NCE18CEX</a> - All right reserved
+            Designed By <a href="#">Suman</a>
         </div>
     </footer>
     </div>
